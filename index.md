@@ -6,7 +6,7 @@ layout: homepage
 
 I am a 4th year Engineering Science student from the University of Toronto, majoring in Machine Intelligence and minoring in Robotics.
 
-## Interests
+## Research Interests
 
 - **Computer Vision:** 3D perception
 - **Autonomous Driving:** sensor simulation, scene understanding
@@ -18,9 +18,5 @@ I am a 4th year Engineering Science student from the University of Toronto, majo
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/research.md %}
-
-<!-- ## Research -->
-
-## Work Experience
 
 <!-- {% include_relative _includes/services.md %} -->

@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 4th year Engineering Science student from the University of Toronto, majoring in Machine Intelligence and minoring in robotics.
+I am a 4th year Engineering Science student from the University of Toronto, majoring in Machine Intelligence and minoring in Robotics.
 
 ## Research Interests
 
@@ -17,4 +17,4 @@ I am a 4th year Engineering Science student from the University of Toronto, majo
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->

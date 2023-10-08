@@ -17,4 +17,8 @@ I am a 4th year Engineering Science student from the University of Toronto, majo
 
 {% include_relative _includes/publications.md %}
 
+## Research Experience
+
+# Work Experience
+
 <!-- {% include_relative _includes/services.md %} -->

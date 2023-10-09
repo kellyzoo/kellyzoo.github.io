@@ -33,4 +33,4 @@ main:
   dates: May 2020 - Aug 2020
   location: University of Toronto
   image: ./assets/img/mv-deepsdf.png
-  desc: Investigated efficient path planning on weighted graph map representations for planetary navigation, using NASA’s Mars 2020 Rover Mission as a performance benchmark
+  desc: Designed and prototyped an autonomous bed-making robot on a 6-DoF robot arm mounted on a mobile platform. Responsible for depth camera calibration and LiDAR-based platform navigation.

@@ -17,6 +17,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="position">{{ link.position }}</div>
+      <br>
       <div class="lab">{{ link.lab }}</div>
       <div class="dates"><em>{{ link.dates }}</em> | {{ link.location}}</div>
     <!-- <div class="links">

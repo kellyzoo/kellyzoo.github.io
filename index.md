@@ -19,4 +19,6 @@ I am a 4th year Engineering Science student from the University of Toronto, majo
 
 {% include_relative _includes/research.md %}
 
+{% include_relative _includes/industry.md %}
+
 <!-- {% include_relative _includes/services.md %} -->

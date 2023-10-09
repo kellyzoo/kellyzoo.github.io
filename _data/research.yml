@@ -1,8 +1,15 @@
 main:
 
 - position: <strong>Research Intern</strong> <em>(Supervised by Prof. Alexander Braun)</em>
-  lab: safe.trAIn by Siemens | DAAD RISE Germany 2023 
+  lab: safe.trAIn by Siemens AG (DAAD RISE Germany 2023)
   dates: May 2023 - Aug 2023
   location: Hochschule Düsseldorf
   image: ./assets/img/mv-deepsdf.png
-  desc: "Built a 3D point cloud landmark extraction pipeline using LiDAR and camera data for refinement of camera calibration techniques in autonomous train technology"
+  desc: Built a 3D point cloud landmark extraction pipeline using LiDAR and camera data for refinement of camera calibration techniques in autonomous train technology
+
+- position: <strong>Perception Researcher</strong>
+  lab: Huawei Noah's Ark Lab
+  dates: May 2022 - Apr 2023
+  location: Toronto, CA
+  image: ./assets/img/mv-deepsdf.png
+  desc: Developed perception and simulation systems for autonomous vehicles. Topics of research included 3D reconstruction, LiDAR sensor simulation, object detection, and multimodal scene understanding. 

@@ -1,5 +1,12 @@
 main:
 
+- position: <strong>Undergraduate Thesis Student</strong> <em>(Supervised by Prof. Florian Shkurti)</em>
+  lab: RVL Lab
+  dates: Sep 2023 - Present
+  location: University of Toronto
+  image: ./assets/img/mv-deepsdf.png
+  desc: Developing a multi-agent 3D detection and trajectory prediction model from multi-sweep LiDAR data to achieve real-time, collision-free motion planning for sidewalk navigation
+
 - position: <strong>DAAD RISE Intern</strong> <em>(Supervised by Prof. Alexander Braun)</em>
   lab: safe.trAIn by Siemens AG
   dates: May 2023 - Aug 2023
@@ -12,4 +19,4 @@ main:
   dates: May 2022 - Apr 2023
   location: Toronto, CA
   image: ./assets/img/mv-deepsdf.png
-  desc: Developed perception and simulation systems for autonomous vehicles. Topics of research included 3D reconstruction, LiDAR sensor simulation, object detection, and multimodal scene understanding. 
+  desc: Developed perception and simulation systems for autonomous vehicles. Topics of research included 3D reconstruction, LiDAR sensor simulation, object detection, and multimodal scene understanding.

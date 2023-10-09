@@ -22,6 +22,7 @@
       <div class="dates"><em>{{ link.dates }}</em>  |  {{ link.location}}</div>
       <br>
       <div class="desc">{{ link.desc }}</div>
+      <br>
     <!-- <div class="links">
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>

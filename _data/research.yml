@@ -1,6 +1,6 @@
 main:
 
-- position: <strong>Undergraduate Thesis Student</strong> <em>(Supervised by Prof. Florian Shkurti)</em>
+- position: <strong>Undergraduate Thesis</strong> <em>(Supervised by Prof. Florian Shkurti)</em>
   lab: RVL Lab
   dates: Sep 2023 - Present
   location: University of Toronto
@@ -20,3 +20,17 @@ main:
   location: Toronto, CA
   image: ./assets/img/mv-deepsdf.png
   desc: Developed perception and simulation systems for autonomous vehicles. Topics of research included 3D reconstruction, LiDAR sensor simulation, object detection, and multimodal scene understanding.
+
+- position: <strong>Undergraduate Researcher</strong> <em>(Supervised by Prof. Jonathan Kelly)</em>
+  lab: STARS Lab
+  dates: May 2021 - Sep 2021
+  location: University of Toronto
+  image: ./assets/img/mv-deepsdf.png
+  desc: Investigated efficient path planning on weighted graph map representations for planetary navigation, using NASA’s Mars 2020 Rover Mission as a performance benchmark
+
+- position: <strong>Undergraduate Researcher</strong> <em>(Supervised by Prof. Andrew Goldenberg)</em>
+  lab: Robotics and Automation Lab (RAL)
+  dates: May 2020 - Aug 2020
+  location: University of Toronto
+  image: ./assets/img/mv-deepsdf.png
+  desc: Investigated efficient path planning on weighted graph map representations for planetary navigation, using NASA’s Mars 2020 Rover Mission as a performance benchmark

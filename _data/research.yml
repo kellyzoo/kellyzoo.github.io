@@ -1,6 +1,6 @@
 main:
 
-- position: <strong>Undergraduate Thesis</strong> <em>(Supervised by Prof. Florian Shkurti)</em>
+- position: <strong>Undergraduate Thesis Student</strong> <em>(Supervised by Prof. Florian Shkurti)</em>
   lab: RVL Lab
   dates: Sep 2023 - Present
   location: University of Toronto
@@ -17,7 +17,7 @@ main:
 - position: <strong>Perception Researcher</strong>
   lab: Huawei Noah's Ark Lab
   dates: May 2022 - Apr 2023
-  location: Toronto, CA
+  location: Toronto, ON
   image: ./assets/img/mv-deepsdf.png
   desc: Developed perception and simulation systems for autonomous vehicles. Topics of research included 3D reconstruction, LiDAR sensor simulation, object detection, and multimodal scene understanding.
 
@@ -26,7 +26,7 @@ main:
   dates: May 2021 - Sep 2021
   location: University of Toronto
   image: ./assets/img/mv-deepsdf.png
-  desc: Investigated efficient path planning on weighted graph map representations for planetary navigation, using NASA’s Mars 2020 Rover Mission as a performance benchmark
+  desc: Investigated efficient path planning on weighted graph maps for planetary navigation, using NASA’s Mars 2020 Rover Mission as a performance benchmark
 
 - position: <strong>Undergraduate Researcher</strong> <em>(Supervised by Prof. Andrew Goldenberg)</em>
   lab: Robotics and Automation Lab (RAL)

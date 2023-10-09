@@ -5,3 +5,4 @@ main:
   dates: May 2023 - Aug 2023
   location: Hochschule Düsseldorf
   image: ./assets/img/mv-deepsdf.png
+  desc: "Built a 3D point cloud landmark extraction pipeline using sensor fusion and panoptic segmentation to refine camera calibration techniques for autonomous train technology (in collaboration with Siemens Mobility)"

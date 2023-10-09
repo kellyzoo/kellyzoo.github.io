@@ -1,8 +1,8 @@
 main:
 
 - position: <strong>Research Intern</strong> <em>(Supervised by Prof. Alexander Braun)</em>
-  lab: DAAD RISE Germany 2023 
+  lab: safe.trAIn by Siemens | DAAD RISE Germany 2023 
   dates: May 2023 - Aug 2023
   location: Hochschule Düsseldorf
   image: ./assets/img/mv-deepsdf.png
-  desc: "Built a 3D point cloud landmark extraction pipeline using sensor fusion and panoptic segmentation to refine camera calibration techniques for autonomous train technology (in collaboration with Siemens Mobility)"
+  desc: "Built a 3D point cloud landmark extraction pipeline using LiDAR and camera data for refinement of camera calibration techniques in autonomous train technology"

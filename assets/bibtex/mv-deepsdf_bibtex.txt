@@ -1,0 +1,8 @@
+@InProceedings{Liu_2023_ICCV,
+    author    = {Liu, Yibo and Zhu, Kelly and Wu, Guile and Ren, Yuan and Liu, Bingbing and Liu, Yang and Shan, Jinjun},
+    title     = {MV-DeepSDF: Implicit Modeling with Multi-Sweep Point Clouds for 3D Vehicle Reconstruction in Autonomous Driving},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {8306-8316}
+}

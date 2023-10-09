@@ -13,7 +13,7 @@ I am a 4th year Engineering Science student from the University of Toronto, majo
 
 ## News
 
-- **[Jul. 2023]** Our paper on multi-view 3D vehicle reconstruction is accepted to ICCV 2023.
+- **[Jul. 2023]** Our paper on multi-view 3D vehicle reconstruction has been accepted to ICCV 2023!
 
 {% include_relative _includes/publications.md %}
 

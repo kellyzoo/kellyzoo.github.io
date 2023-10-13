@@ -25,7 +25,7 @@ main:
   lab: STARS Lab
   dates: May 2021 - Sep 2021
   location: University of Toronto
-  image: ./assets/img/huawei.png
+  image: ./assets/img/stars.png
   desc: Investigated efficient path planning on weighted graph maps for planetary navigation, using NASA’s Mars 2020 Rover Mission as a performance benchmark
 
 - position: <strong>Undergraduate Researcher</strong> <em>(Supervised by Prof. Andrew Goldenberg)</em>

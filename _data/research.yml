@@ -4,21 +4,21 @@ main:
   lab: RVL Lab
   dates: Sep 2023 - Present
   location: University of Toronto
-  image: ./assets/img/mv-deepsdf.png
+  image: ./assets/img/rvl.png
   desc: Developing a multi-agent 3D detection and trajectory prediction model from multi-sweep LiDAR data to achieve real-time, collision-free motion planning for sidewalk navigation
 
 - position: <strong>DAAD RISE Intern</strong> <em>(Supervised by Prof. Alexander Braun)</em>
   lab: safe.trAIn by Siemens AG
   dates: May 2023 - Aug 2023
   location: Hochschule Düsseldorf
-  image: ./assets/img/mv-deepsdf.png
+  image: ./assets/img/safetrain.png
   desc: Built a 3D point cloud landmark extraction pipeline using LiDAR and camera data for refinement of camera calibration techniques in autonomous train technology
 
 - position: <strong>Perception Researcher</strong>
   lab: Huawei Noah's Ark Lab
   dates: May 2022 - Apr 2023
   location: Toronto, ON
-  image: ./assets/img/mv-deepsdf.png
+  image: ./assets/img/huawei.png
   desc: Developed perception and simulation systems for autonomous vehicles. Topics of research included 3D reconstruction, LiDAR sensor simulation, object detection, and multimodal scene understanding.
 
 - position: <strong>Undergraduate Researcher</strong> <em>(Supervised by Prof. Jonathan Kelly)</em>
@@ -32,5 +32,5 @@ main:
   lab: Robotics and Automation Lab (RAL)
   dates: May 2020 - Aug 2020
   location: University of Toronto
-  image: ./assets/img/mv-deepsdf.png
+  image: ./assets/img/uoft.png
   desc: Designed and prototyped an autonomous bed-making robot on a 6-DoF robot arm mounted on a mobile platform. Responsible for depth camera calibration and LiDAR-based platform navigation.

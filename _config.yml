@@ -22,7 +22,7 @@ linkedin: https://www.linkedin.com/in/kellyzhu-ca
 # "favicon_light" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.png
 favicon_light: ./assets/img/favicon_light.png
-favicon_dark: ./assets/img/favicon_dark.png
+favicon_dark: ./assets/img/favicon_light.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."

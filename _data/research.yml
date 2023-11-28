@@ -11,7 +11,7 @@ main:
   lab: safe.trAIn by Siemens AG
   dates: May 2023 - Aug 2023
   location: Hochschule Düsseldorf
-  image: ./assets/img/safetrain.png
+  image: ./assets/img/daad.png
   desc: Built a 3D point cloud landmark extraction pipeline using LiDAR and camera data for refinement of camera calibration techniques in autonomous train technology
 
 - position: <strong>Perception Researcher</strong>

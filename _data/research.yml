@@ -5,7 +5,7 @@ main:
   dates: Sep 2023 - Present
   location: University of Toronto
   image: ./assets/img/nuscenes.png
-  desc: Developing a multi-agent 3D detection and trajectory prediction model from multi-sweep LiDAR data to achieve real-time, collision-free motion planning for sidewalk navigation
+  desc: Developing a multi-agent 3D detection and trajectory prediction model from multi-sweep LiDAR data to achieve real-time, collision-free motion planning
 
 - position: <strong>DAAD RISE Intern</strong> <em>(Supervised by Prof. Alexander Braun)</em>
   lab: safe.trAIn by Siemens AG

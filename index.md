@@ -8,8 +8,8 @@ I am a 4th year Engineering Science student from the University of Toronto, majo
 
 ## Research Interests
 
-- **Computer Vision:** 3D perception
-- **Autonomous Driving:** sensor simulation, scene understanding
+- **Computer Vision:** 3D reconstruction, scene understanding, multimodal perception
+- **Autonomous Driving:** sensor simulation, end-to-end learning, novel scene synthesis
 
 ## News
 

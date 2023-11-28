@@ -18,7 +18,7 @@ main:
   lab: Huawei Noah's Ark Lab
   dates: May 2022 - Apr 2023
   location: Toronto, ON
-  image: ./assets/img/huawei.png
+  image: ./assets/img/kitti.png
   desc: Developed perception and simulation systems for autonomous vehicles. Topics of research included 3D reconstruction, LiDAR sensor simulation, object detection, and multimodal scene understanding.
 
 - position: <strong>Undergraduate Researcher</strong> <em>(Supervised by Prof. Jonathan Kelly)</em>

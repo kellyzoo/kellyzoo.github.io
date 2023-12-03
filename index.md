@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a 4th year Engineering Science student from the University of Toronto, majoring in Machine Intelligence and minoring in Robotics.
+I am a 4th year undergraduate student in the [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) program at the University of Toronto, where I am pursuing a major in Machine Intelligence and Minor in Robotics.
+I am currently advised by Professor [Florian Shkurti](http://www.cs.toronto.edu/~florian/) for my undergraduate thesis, which focuses on multi-agent trajectory prediction for downstream applications in autonomous driving and robotics.
 
 ## Research Interests
 

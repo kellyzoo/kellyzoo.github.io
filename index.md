@@ -22,7 +22,7 @@ I am currently advised by Professor [Florian Shkurti](http://www.cs.toronto.edu/
 - **[May 2024]** I was selected as a recipient of the Vector Scholarship in AI!
 - **[Jul 2023]** Our paper on multi-view 3D vehicle reconstruction has been accepted to ICCV 2023!
 
-<!-- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/research.md %} --> 
 

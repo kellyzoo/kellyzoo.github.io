@@ -1,4 +1,4 @@
-<h2 id="Industry" style="margin: 2px 0px -15px;">Industry Experience</h2>
+<!-- <h2 id="Industry" style="margin: 2px 0px -15px;">Industry Experience</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -51,4 +51,4 @@
 {% endfor %}
 
 </ol>
-</div>
+</div> -->

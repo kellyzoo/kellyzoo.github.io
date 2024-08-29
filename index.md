@@ -24,7 +24,7 @@ I am currently advised by Professor [Florian Shkurti](http://www.cs.toronto.edu/
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/research.md %} --> 
+{% include_relative _includes/research.md %}
 
 {% include_relative _includes/industry.md %} 
 

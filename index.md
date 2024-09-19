@@ -15,5 +15,3 @@ I completed my undergraduate degree in [Engineering Science](https://engsci.utor
 - **[Jul 2023]** Our paper on multi-view 3D vehicle reconstruction has been accepted to ICCV 2023!
 
 {% include_relative _includes/publications.md %}
-
-<!-- {% include_relative _includes/services.md %} -->

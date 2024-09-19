@@ -16,8 +16,4 @@ I completed my undergraduate degree in [Engineering Science](https://engsci.utor
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/research.md %} -->
-
-<!-- {% include_relative _includes/industry.md %}  -->
-
 <!-- {% include_relative _includes/services.md %} -->

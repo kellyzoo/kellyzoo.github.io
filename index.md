@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a MSc student in the Department of Computer Science at the University of Toronto. I am supervised by [David Lindell](https://davidlindell.com) at the [Toronto Computational Imaging Group](https://compimaging.dgp.toronto.edu). I am interested in computer vision, machine learning, and neural representations.
+I'm a MSc student in the Department of Computer Science at the University of Toronto. I am supervised by [David Lindell](https://davidlindell.com) at the [Toronto Computational Imaging Group](https://compimaging.dgp.toronto.edu). I am broadly interested in computer vision, machine learning, and neural representations.
 
 I completed my undergraduate degree in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) at the University of Toronto. I was supervised by [Florian Shkurti](http://www.cs.toronto.edu/~florian/) for my undergraduate thesis on multi-agent trajectory prediction. I also interned at Huawei Noah's Ark Lab, where I worked on simulation and 3D reconstruction for autonomous driving.
 

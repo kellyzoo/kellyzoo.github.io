@@ -10,7 +10,7 @@ I completed my undergraduate degree in [Engineering Science](https://engsci.utor
 
 ## News
 
-- **[Aug 2024]** I've been awarded the Queen Elizabeth II Graduate Scholarship in Science & Technology.
+- **[Aug 2024]** Awarded the Queen Elizabeth II Graduate Scholarship in Science & Technology!
 - **[May 2024]** I was selected as a recipient of the Vector Scholarship in AI!
 - **[Jul 2023]** Our paper on multi-view 3D vehicle reconstruction has been accepted to ICCV 2023!
 

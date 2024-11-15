@@ -1,6 +1,6 @@
 <h2 id="Industry" style="margin: 2px 0px -15px;">Industry Experience</h2>
 
-<div class="industry">
+<div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.industry.main %}

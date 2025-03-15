@@ -1,0 +1,21 @@
+main:
+
+  # - title: "Downstream Effects of Uncertainty Calibration in Perception-Based Motion Planning"
+  #   authors: Andrei Ivanovic, <strong>Kelly Zhu</strong>, Masha Itkina, Rowan McAllister, Igor Gilitschenski, Florian Shkurti
+  #   # conference_short: 
+  #   conference: under review
+  #   # pdf: https://arxiv.org/abs/2309.16715
+  #   # code: https://github.com/MrGiovanni/ContinualLearning
+  #   # bibtex: ./assets/bibtex/mv-deepsdf_bibtex.txt
+  #   image: ./assets/img/downstream.pdf
+  #   # notes: Early Accept
+
+  - title: "MV-DeepSDF: Implicit Modeling with Multi-Sweep Point Clouds for 3D Vehicle Reconstruction in Autonomous Driving"
+    authors: Yibo Liu, <strong>Kelly Zhu</strong>, Guile Wu, Yuan Ren, Bingbing Liu, Yang Liu, Jinjun Shan
+    conference_short: ICCV
+    conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
+    pdf: https://arxiv.org/abs/2309.16715
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: ./assets/bibtex/mv-deepsdf_bibtex.txt
+    image: ./assets/img/mv-deepsdf.png
+    # notes: Early Accept

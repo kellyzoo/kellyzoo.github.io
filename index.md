@@ -10,14 +10,14 @@ I completed my undergraduate degree in [Engineering Science](https://engsci.utor
 
 My MSc research is gratefully supported by the [Vector Scholarship in AI](https://vectorinstitute.ai/programs/scholarship/), [Queen Elizabeth II Graduate Scholarship in Science & Technology](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019236.html), and [Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html).
 
-<br>
+<!-- <br> -->
 
-<!-- ## News
+## News
 
 - **[Jun 2025]** I received the Ontario Graduate Scholarship!
 - **[Aug 2024]** Awarded the Queen Elizabeth II Graduate Scholarship in Science & Technology!
 - **[May 2024]** I was selected as a recipient of the Vector Scholarship in AI.
-- **[Jul 2023]** Our paper on multi-view 3D vehicle reconstruction has been accepted to ICCV 2023! -->
+- **[Jul 2023]** Our paper on multi-view 3D vehicle reconstruction has been accepted to ICCV 2023!
 
 {% include_relative _includes/publications.md %}
 

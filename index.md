@@ -10,6 +10,8 @@ I completed my undergraduate degree in [Engineering Science](https://engsci.utor
 
 My MSc research is gratefully supported by the [Vector Scholarship in AI](https://vectorinstitute.ai/programs/scholarship/), [Queen Elizabeth II Graduate Scholarship in Science & Technology](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019236.html), and [Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html).
 
+<br><br> <!-- Adds vertical space -->
+
 <!-- ## News
 
 - **[Jun 2025]** I received the Ontario Graduate Scholarship!

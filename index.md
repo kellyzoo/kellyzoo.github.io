@@ -4,9 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a MSc student in the Department of Computer Science at the University of Toronto, supervised by [David Lindell](https://davidlindell.com) and [Kyros Kutulakos](https://www.cs.toronto.edu/~kyros/) in the [Toronto Computational Imaging Group](https://compimaging.dgp.toronto.edu). I am broadly interested in computer vision, machine learning, and robotics.
-
-I completed my undergraduate degree in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) at the University of Toronto. I was supervised by [Florian Shkurti](http://www.cs.toronto.edu/~florian/) for my undergraduate thesis on multi-agent trajectory prediction. I also interned at Huawei Noah's Ark Lab, where I worked on simulation and 3D reconstruction for autonomous driving.
+I'm a MSc student in the Department of Computer Science at the University of Toronto, supervised by [David Lindell](https://davidlindell.com) and [Kyros Kutulakos](https://www.cs.toronto.edu/~kyros/) in the [Toronto Computational Imaging Group](https://compimaging.dgp.toronto.edu). I completed my undergraduate degree in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) at the University of Toronto, where I was supervised by [Florian Shkurti](http://www.cs.toronto.edu/~florian/) for my thesis on multi-agent trajectory prediction for autonomous robotics. I am broadly interested in imaging, computer vision, and robotics.
 
 My MSc research is gratefully supported by the [Vector Scholarship in AI](https://vectorinstitute.ai/programs/scholarship/), [Queen Elizabeth II Graduate Scholarship in Science & Technology](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019236.html), and [Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html).
 
@@ -24,3 +22,10 @@ My MSc research is gratefully supported by the [Vector Scholarship in AI](https:
 {% include_relative _includes/research.md %}
 
 {% include_relative _includes/industry.md %}
+
+## Teaching
+
+At University of Toronto:
+- [CSC2529: Computational Imaging](https://www.cs.toronto.edu/~lindell/teaching/2529/) (Fall 2025, TA)
+- [CSC384: Introduction to Artificial Intelligenc](https://artsci.calendar.utoronto.ca/course/csc384h1) (Summer 2025, TA) 
+- [CSC412: Probabilistic Learning and Reasoning](https://diophontine.github.io/csc412/) (Winter 2025, TA)

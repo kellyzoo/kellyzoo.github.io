@@ -6,11 +6,9 @@ layout: homepage
 
 I'm a MSc student in the Department of Computer Science at the University of Toronto, supervised by [David Lindell](https://davidlindell.com) and [Kyros Kutulakos](https://www.cs.toronto.edu/~kyros/) in the [Toronto Computational Imaging Group](https://compimaging.dgp.toronto.edu). I completed my undergraduate degree in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) at the University of Toronto, where I was supervised by [Florian Shkurti](http://www.cs.toronto.edu/~florian/) for my thesis on multi-agent trajectory prediction for autonomous robotics. 
 
-I am broadly interested in computational imaging, computer vision, machine learning, and robotics.
-
 My MSc research is gratefully supported by the [Vector Scholarship in AI](https://vectorinstitute.ai/programs/scholarship/), [Queen Elizabeth II Graduate Scholarship in Science & Technology](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019236.html), and [Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html).
 
-<!-- <br> -->
+I am broadly interested in computational imaging, computer vision, machine learning, and robotics.
 
 ## News
 
@@ -20,9 +18,6 @@ My MSc research is gratefully supported by the [Vector Scholarship in AI](https:
 - **[Jul 2023]** Our paper on multi-view 3D vehicle reconstruction has been accepted to ICCV 2023!
 
 {% include_relative _includes/publications.md %}
-<!-- {% include_relative _includes/research.md %}
-
-{% include_relative _includes/industry.md %} -->
 
 ## Teaching
 

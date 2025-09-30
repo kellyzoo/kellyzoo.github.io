@@ -20,7 +20,6 @@ My MSc research is gratefully supported by the [Vector Scholarship in AI](https:
 - **[Jul 2023]** Our paper on multi-view 3D vehicle reconstruction has been accepted to ICCV 2023!
 
 {% include_relative _includes/publications.md %}
-
 <!-- {% include_relative _includes/research.md %}
 
 {% include_relative _includes/industry.md %} -->

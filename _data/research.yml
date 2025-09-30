@@ -1,36 +1,36 @@
-main:
+# main:
 
-- position: <strong>Undergraduate Thesis Student</strong> <em>(Supervised by Prof. Florian Shkurti)</em>
-  lab: RVL Lab
-  dates: Sep 2023 - Sep 2024
-  location: University of Toronto
-  image: ./assets/img/nuscenes.png
-  desc: Contributed to a multi-agent 3D detection and trajectory prediction model from multi-sweep LiDAR data to achieve real-time, collision-free motion planning
+# - position: <strong>Undergraduate Thesis Student</strong> <em>(Supervised by Prof. Florian Shkurti)</em>
+#   lab: RVL Lab
+#   dates: Sep 2023 - Sep 2024
+#   location: University of Toronto
+#   image: ./assets/img/nuscenes.png
+#   desc: Contributed to a multi-agent 3D detection and trajectory prediction model from multi-sweep LiDAR data to achieve real-time, collision-free motion planning
 
-- position: <strong>DAAD RISE Intern</strong> <em>(Supervised by Prof. Alexander Braun)</em>
-  lab: safe.trAIn by Siemens AG
-  dates: May 2023 - Aug 2023
-  location: Hochschule Düsseldorf
-  image: ./assets/img/daad.png
-  desc: Built a 3D point cloud landmark extraction pipeline using LiDAR and camera data for refinement of camera calibration techniques in autonomous train technology
+# - position: <strong>DAAD RISE Intern</strong> <em>(Supervised by Prof. Alexander Braun)</em>
+#   lab: safe.trAIn by Siemens AG
+#   dates: May 2023 - Aug 2023
+#   location: Hochschule Düsseldorf
+#   image: ./assets/img/daad.png
+#   desc: Built a 3D point cloud landmark extraction pipeline using LiDAR and camera data for refinement of camera calibration techniques in autonomous train technology
 
-- position: <strong>Perception Researcher</strong>
-  lab: Huawei Noah's Ark Lab
-  dates: May 2022 - Apr 2023
-  location: Toronto, ON
-  image: ./assets/img/reconstruction.png
-  desc: Developed perception and simulation systems for autonomous vehicles. Topics of research included 3D reconstruction, LiDAR sensor simulation, object detection, and multimodal scene understanding.
+# - position: <strong>Perception Researcher</strong>
+#   lab: Huawei Noah's Ark Lab
+#   dates: May 2022 - Apr 2023
+#   location: Toronto, ON
+#   image: ./assets/img/reconstruction.png
+#   desc: Developed perception and simulation systems for autonomous vehicles. Topics of research included 3D reconstruction, LiDAR sensor simulation, object detection, and multimodal scene understanding.
 
-- position: <strong>Undergraduate Researcher</strong> <em>(Supervised by Prof. Jonathan Kelly)</em>
-  lab: STARS Lab
-  dates: May 2021 - Sep 2021
-  location: University of Toronto
-  image: ./assets/img/gplanetary.png
-  desc: Investigated efficient path planning on weighted graph maps for planetary navigation, using NASA’s Mars 2020 Rover Mission as a performance benchmark
+# - position: <strong>Undergraduate Researcher</strong> <em>(Supervised by Prof. Jonathan Kelly)</em>
+#   lab: STARS Lab
+#   dates: May 2021 - Sep 2021
+#   location: University of Toronto
+#   image: ./assets/img/gplanetary.png
+#   desc: Investigated efficient path planning on weighted graph maps for planetary navigation, using NASA’s Mars 2020 Rover Mission as a performance benchmark
 
-- position: <strong>Undergraduate Researcher</strong> <em>(Supervised by Prof. Andrew Goldenberg)</em>
-  lab: Robotics and Automation Lab (RAL)
-  dates: May 2020 - Aug 2020
-  location: University of Toronto
-  image: ./assets/img/bedmaking.gif
-  desc: Designed and prototyped an autonomous bed-making robot on a 6-DoF robot arm mounted on a mobile platform. Responsible for depth camera calibration and LiDAR-based platform navigation.
+# - position: <strong>Undergraduate Researcher</strong> <em>(Supervised by Prof. Andrew Goldenberg)</em>
+#   lab: Robotics and Automation Lab (RAL)
+#   dates: May 2020 - Aug 2020
+#   location: University of Toronto
+#   image: ./assets/img/bedmaking.gif
+#   desc: Designed and prototyped an autonomous bed-making robot on a 6-DoF robot arm mounted on a mobile platform. Responsible for depth camera calibration and LiDAR-based platform navigation.

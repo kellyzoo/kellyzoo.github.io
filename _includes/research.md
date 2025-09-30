@@ -46,7 +46,7 @@
 </div>
 </li>
 
-<br>
+{% unless forloop.last %}<br>{% endunless %}
 
 {% endfor %}
 

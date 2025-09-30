@@ -8,6 +8,7 @@ I'm a MSc student in the Department of Computer Science at the University of Tor
 
 My MSc research is gratefully supported by the [Vector Scholarship in AI](https://vectorinstitute.ai/programs/scholarship/), [Queen Elizabeth II Graduate Scholarship in Science & Technology](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019236.html), and [Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html).
 
+## Research
 I am broadly interested in computational imaging, computer vision, machine learning, and robotics.
 
 ## News
@@ -18,6 +19,8 @@ I am broadly interested in computational imaging, computer vision, machine learn
 - **[Jul 2023]** Our paper on multi-view 3D vehicle reconstruction has been accepted to ICCV 2023!
 
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/research.md %}
+{% include_relative _includes/industry.md %}
 
 ## Teaching
 

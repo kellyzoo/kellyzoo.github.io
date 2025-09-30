@@ -1,8 +1,8 @@
-# main:
+main:
 
-# - position: <strong>Autonomy Engineering Intern</strong>
-#   lab: Trimble Applanix
-#   dates: May 2021 - Sep 2021
-#   location: Toronto, ON
-#   image: ./assets/img/applanix.png
-#   desc: Aided with the development of LiDAR-based SLAM and perception solutions for integration with Applanix's inertial navigation system in autonomous driving applications
+- position: <strong>Autonomy Engineering Intern</strong>
+  lab: Trimble Applanix
+  dates: May 2021 - Sep 2021
+  location: Toronto, ON
+  image: ./assets/img/applanix.png
+  desc: Aided with the development of LiDAR-based SLAM and perception solutions for integration with Applanix's inertial navigation system in autonomous driving applications

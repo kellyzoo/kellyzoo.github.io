@@ -25,7 +25,6 @@ My MSc research is gratefully supported by the [Vector Scholarship in AI](https:
 
 ## Teaching
 
-At University of Toronto:
-- [CSC2529: Computational Imaging](https://www.cs.toronto.edu/~lindell/teaching/2529/) (Fall 2025, TA)
-- [CSC384: Introduction to Artificial Intelligenc](https://artsci.calendar.utoronto.ca/course/csc384h1) (Summer 2025, TA) 
-- [CSC412: Probabilistic Learning and Reasoning](https://diophontine.github.io/csc412/) (Winter 2025, TA)
+- [CSC2529: Computational Imaging](https://www.cs.toronto.edu/~lindell/teaching/2529/) @ UofT (Fall 2025, TA)
+- [CSC384: Introduction to Artificial Intelligence](https://artsci.calendar.utoronto.ca/course/csc384h1) @ UofT(Summer 2025, TA) 
+- [CSC412: Probabilistic Learning and Reasoning](https://diophontine.github.io/csc412/) @ UofT (Winter 2025, TA)

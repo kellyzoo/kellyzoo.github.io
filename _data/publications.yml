@@ -14,7 +14,7 @@ main:
   - title: "MV-DeepSDF: Implicit Modeling with Multi-Sweep Point Clouds for 3D Vehicle Reconstruction in Autonomous Driving"
     authors: Yibo Liu, <strong>Kelly Zhu</strong>, Guile Wu, Yuan Ren, Bingbing Liu, Yang Liu, Jinjun Shan
     conference_short: ICCV
-    conference: International Conference on Computer Vision (ICCV), 2023.
+    conference: International Conference on Computer Vision (ICCV), 2023
     pdf: https://arxiv.org/abs/2309.16715
     # code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: ./assets/bibtex/mv-deepsdf_bibtex.txt

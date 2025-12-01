@@ -1,7 +1,7 @@
 main:
 
   - title: "Generating the Past, Present and Future from a Motion-Blurred Image"
-    authors: SaiKiran Tedla, <strong>Kelly Zhu</strong>, Trevor Canham, Felix Taubner, Michael S. Brown, Kiriakos N. Kutulakos, David B. Lindell
+    authors: '<a href="https://sites.google.com/view/tedlasai/">SaiKiran Tedla</a>, <strong>Kelly Zhu</strong>, Trevor Canham, <a href="https://felixtaubner.github.io">Felix Taubner</a>, <a href="http://www.cse.yorku.ca/~mbrown/">Michael S. Brown</a>, <a href="https://www.cs.toronto.edu/~kyros/">Kiriakos N. Kutulakos</a>, <a href="https://davidlindell.com">David B. Lindell</a>'
     conference_short: ACM TOG
     conference: ACM Transactions on Graphics (SIGGRAPH Asia), 2025
     page: https://blur2vid.github.io
@@ -14,7 +14,7 @@ main:
   - title: "MV-DeepSDF: Implicit Modeling with Multi-Sweep Point Clouds for 3D Vehicle Reconstruction in Autonomous Driving"
     authors: Yibo Liu, <strong>Kelly Zhu</strong>, Guile Wu, Yuan Ren, Bingbing Liu, Yang Liu, Jinjun Shan
     conference_short: ICCV
-    conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
+    conference: International Conference on Computer Vision (ICCV), 2023.
     pdf: https://arxiv.org/abs/2309.16715
     # code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: ./assets/bibtex/mv-deepsdf_bibtex.txt

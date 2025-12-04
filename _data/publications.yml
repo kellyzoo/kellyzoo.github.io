@@ -5,9 +5,9 @@ main:
     conference_short: ACM TOG
     conference: ACM Transactions on Graphics (SIGGRAPH Asia), 2025
     page: https://blur2vid.github.io
-    # pdf: https://arxiv.org/abs/2309.16715
+    pdf: https://dl.acm.org/doi/10.1145/3763306
     # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: ./assets/bibtex/mv-deepsdf_bibtex.txt
+    bibtex: ./assets/bibtex/blur2vid_bibtex.txt
     image: ./assets/img/blur2vid.jpg
   #   # notes: Early Accept
 

@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a Computer Science MSc student at the University of Toronto, supervised by [David Lindell](https://davidlindell.com) and [Kyros Kutulakos](https://www.cs.toronto.edu/~kyros/) in the [Toronto Computational Imaging Group](https://compimaging.dgp.toronto.edu). Previously, I received my BASc in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) at the University of Toronto, where I was fortunate to be advised by [Florian Shkurti](http://www.cs.toronto.edu/~florian/). 
+I'm a second-year Computer Science MSc student at the University of Toronto, supervised by [David Lindell](https://davidlindell.com) and [Kyros Kutulakos](https://www.cs.toronto.edu/~kyros/) in the [Toronto Computational Imaging Group](https://compimaging.dgp.toronto.edu). Previously, I received my BASc in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) at the University of Toronto, where I was fortunate to be advised by [Florian Shkurti](http://www.cs.toronto.edu/~florian/). 
 
 My MSc research is gratefully supported by the [Vector Scholarship in AI](https://vectorinstitute.ai/programs/scholarship/), [Queen Elizabeth II Graduate Scholarship in Science & Technology](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019236.html), and [Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html).
 

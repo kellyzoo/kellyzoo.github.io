@@ -24,6 +24,6 @@ I am broadly interested in computational imaging, computer vision, machine learn
 
 ## Teaching
 
-- [CSC2529: Computational Imaging](https://www.cs.toronto.edu/~lindell/teaching/2529/) @ UofT (Fall 2025, TA)
-- [CSC384: Introduction to Artificial Intelligence](https://artsci.calendar.utoronto.ca/course/csc384h1) @ UofT (Summer 2025, TA) 
-- [CSC412: Probabilistic Learning and Reasoning](https://diophontine.github.io/csc412/) @ UofT (Winter 2025, TA)
+- [CSC2529: Computational Imaging](https://www.cs.toronto.edu/~lindell/teaching/2529/) @ UofT (2025, TA)
+- [CSC384: Introduction to Artificial Intelligence](https://artsci.calendar.utoronto.ca/course/csc384h1) @ UofT (2025–2026, TA) 
+- [CSC412: Probabilistic Learning and Reasoning](https://diophontine.github.io/csc412/) @ UofT (2025, TA)

@@ -4,23 +4,24 @@ layout: homepage
 
 ## About Me
 
-I'm a second-year Computer Science MSc student at the University of Toronto, supervised by [David Lindell](https://davidlindell.com) and [Kyros Kutulakos](https://www.cs.toronto.edu/~kyros/) in the [Toronto Computational Imaging Group](https://compimaging.dgp.toronto.edu). Previously, I received my BASc in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) at the University of Toronto, where I was fortunate to be advised by [Florian Shkurti](http://www.cs.toronto.edu/~florian/). 
+I am an incoming PhD student at [CMU Robotics Institute](https://www.ri.cmu.edu). Previously, I completed my MSc in Computer Science with [David Lindell](https://davidlindell.com) and [Kyros Kutulakos](https://www.cs.toronto.edu/~kyros/) at the University of Toronto. Before that, I received my BASc in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) at the University of Toronto, where I was advised by [Florian Shkurti](http://www.cs.toronto.edu/~florian/).
 
-My MSc research is gratefully supported by the [Vector Scholarship in AI](https://vectorinstitute.ai/programs/scholarship/), [Queen Elizabeth II Graduate Scholarship in Science & Technology](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019236.html), and [Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html).
+My PhD is gratefully supported by the [NSERC Canada Graduate Research Scholarship – Doctoral](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program), and my MSc research was previously funded by the [Vector Scholarship in AI](https://vectorinstitute.ai/programs/scholarship/), [Queen Elizabeth II Graduate Scholarship in Science & Technology](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019236.html), and [Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html).
 
 ## Research
-I am broadly interested in computational imaging, computer vision, machine learning, and robotics.
+I am broadly interested in computer vision, machine learning, and robotics.
 
 ## News
 
+- **[Apr 2026]** I received the NSERC CGRS D for my PhD!
 - **[Jun 2025]** I received the Ontario Graduate Scholarship!
 - **[Aug 2024]** Awarded the Queen Elizabeth II Graduate Scholarship in Science & Technology!
-- **[May 2024]** I was selected as a recipient of the Vector Scholarship in AI.
+- **[May 2024]** I was selected as a recipient the Vector Scholarship in AI.
 - **[Jul 2023]** Our paper on multi-view 3D vehicle reconstruction has been accepted to ICCV 2023!
 
 {% include_relative _includes/publications.md %}
-{% include_relative _includes/research.md %}
-{% include_relative _includes/industry.md %}
+{% comment %}{% include_relative _includes/research.md %}{% endcomment %}
+{% comment %}{% include_relative _includes/industry.md %}{% endcomment %}
 
 ## Teaching
 

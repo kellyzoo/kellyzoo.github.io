@@ -1,13 +1,13 @@
 # Basic Information 
 title: Kelly Zhu
-position: MSc in Computer Science
-affiliation: University of Toronto
-email: zhu (at) cs.toronto.edu
+position: PhD Student
+affiliation: Carnegie Mellon University
+email: kellyzhu (at) andrew.cmu.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: kelly zhu uoft
-description: Kelly Zhu - Department of Computer Science
+keywords: kelly zhu cmu
+description: Kelly Zhu - Carnegie Mellon University
 canonical: https://kellyzhu.ca
 
 # Links 
@@ -17,7 +17,7 @@ cv_link: assets/files/CV.pdf
 # github_link: https://github.com/kellyzoo
 linkedin: https://www.linkedin.com/in/kellyzhu-ca
 twitter: https://x.com/KellyKZhu
-youtube: https://www.youtube.com/@kellyzhu
+# youtube: https://www.youtube.com/@kellyzhu
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon_light" and "favicon_dark" are used for the light and dark modes, respectively. 

@@ -115,6 +115,42 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        var CHUNK = 5;
+        var headings = document.querySelectorAll("h2");
+        var newsHeading = null;
+        for (var i = 0; i < headings.length; i++) {
+          if (headings[i].textContent.trim() === "News") {
+            newsHeading = headings[i];
+            break;
+          }
+        }
+        if (!newsHeading) return;
+        var ul = newsHeading.nextElementSibling;
+        if (!ul || ul.tagName !== "UL") return;
+        var items = ul.querySelectorAll("li");
+        if (items.length <= CHUNK) return;
+        for (var j = CHUNK; j < items.length; j++) {
+          items[j].style.display = "none";
+        }
+        var btn = document.createElement("a");
+        btn.href = "#";
+        btn.textContent = "Show more";
+        btn.style.cssText = "font-size:0.95em; cursor:pointer; display:block; margin-top:-1em; margin-bottom:1em;";
+        var shown = CHUNK;
+        btn.addEventListener("click", function (e) {
+          e.preventDefault();
+          var next = Math.min(shown + CHUNK, items.length);
+          for (var k = shown; k < next; k++) {
+            items[k].style.display = "";
+          }
+          shown = next;
+          if (shown >= items.length) btn.remove();
+        });
+        ul.insertAdjacentElement("afterend", btn);
+      });
+    </script>
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

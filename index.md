@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an incoming PhD student at [CMU Robotics Institute](https://www.ri.cmu.edu). Previously, I completed my MSc in Computer Science with [David Lindell](https://davidlindell.com) and [Kyros Kutulakos](https://www.cs.toronto.edu/~kyros/) at the University of Toronto. Before that, I received my BASc in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) at the University of Toronto, where I was advised by [Florian Shkurti](http://www.cs.toronto.edu/~florian/).
+I am a PhD student at [CMU Robotics Institute](https://www.ri.cmu.edu). Previously, I completed my MSc in Computer Science with [David Lindell](https://davidlindell.com) and [Kyros Kutulakos](https://www.cs.toronto.edu/~kyros/) at the University of Toronto. Before that, I received my BASc in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) at the University of Toronto, where I was advised by [Florian Shkurti](http://www.cs.toronto.edu/~florian/).
 
 My PhD is gratefully supported by the [NSERC Canada Graduate Research Scholarship – Doctoral](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program), and my MSc research was previously funded by the [Vector Scholarship in AI](https://vectorinstitute.ai/programs/scholarship/), [Queen Elizabeth II Graduate Scholarship in Science & Technology](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019236.html), and [Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html).
 

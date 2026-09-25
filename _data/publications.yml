@@ -1,7 +1,7 @@
 main:
 
   - title: "Generating the Past, Present and Future from a Motion-Blurred Image"
-    authors: '<a href="https://sites.google.com/view/tedlasai/">SaiKiran Tedla</a>, <strong>Kelly Zhu</strong>, Trevor Canham, <a href="https://felixtaubner.github.io">Felix Taubner</a>, <a href="http://www.cse.yorku.ca/~mbrown/">Michael S. Brown</a>, <a href="https://www.cs.toronto.edu/~kyros/">Kiriakos N. Kutulakos</a>, <a href="https://davidlindell.com">David B. Lindell</a>'
+    authors: '<a href="https://tedlasai.github.io">SaiKiran Tedla</a>, <strong>Kelly Zhu</strong>, Trevor Canham, <a href="https://felixtaubner.github.io">Felix Taubner</a>, <a href="http://www.cse.yorku.ca/~mbrown/">Michael S. Brown</a>, <a href="https://www.cs.toronto.edu/~kyros/">Kiriakos N. Kutulakos</a>, <a href="https://davidlindell.com">David B. Lindell</a>'
     conference_short: ACM TOG
     conference: ACM Transactions on Graphics (Proc. SIGGRAPH Asia 2025)
     page: https://blur2vid.github.io

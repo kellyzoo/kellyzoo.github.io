@@ -134,21 +134,45 @@
         for (var j = CHUNK; j < items.length; j++) {
           items[j].style.display = "none";
         }
-        var btn = document.createElement("a");
-        btn.href = "#";
-        btn.textContent = "Show more";
-        btn.style.cssText = "font-size:0.95em; cursor:pointer; display:block; margin-top:-1em; margin-bottom:1em;";
+        var btnStyle = "font-size:0.95em; cursor:pointer;";
         var shown = CHUNK;
-        btn.addEventListener("click", function (e) {
+
+        var moreBtn = document.createElement("a");
+        moreBtn.href = "#";
+        moreBtn.textContent = "Show more";
+        moreBtn.style.cssText = btnStyle + " display:inline;";
+
+        var lessBtn = document.createElement("a");
+        lessBtn.href = "#";
+        lessBtn.textContent = "Show less";
+        lessBtn.style.cssText = btnStyle + " display:none; margin-left:1em;";
+
+        moreBtn.addEventListener("click", function (e) {
           e.preventDefault();
           var next = Math.min(shown + CHUNK, items.length);
           for (var k = shown; k < next; k++) {
             items[k].style.display = "";
           }
           shown = next;
-          if (shown >= items.length) btn.remove();
+          lessBtn.style.display = "inline";
+          if (shown >= items.length) moreBtn.style.display = "none";
         });
-        ul.insertAdjacentElement("afterend", btn);
+
+        lessBtn.addEventListener("click", function (e) {
+          e.preventDefault();
+          for (var k = CHUNK; k < items.length; k++) {
+            items[k].style.display = "none";
+          }
+          shown = CHUNK;
+          moreBtn.style.display = "inline";
+          lessBtn.style.display = "none";
+        });
+
+        var btnRow = document.createElement("div");
+        btnRow.style.cssText = "margin-top:-1em; margin-bottom:1em;";
+        btnRow.appendChild(moreBtn);
+        btnRow.appendChild(lessBtn);
+        ul.insertAdjacentElement("afterend", btnRow);
       });
     </script>
     {% if site.google_analytics %}
